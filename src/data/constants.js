@@ -201,7 +201,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/3d9cc3fe-e359-42e6-8396-b015edc55cd0",
     role: "Cloud Engineer Intern",
     company: "Bayer R&D Services LLC",
     date: "Aug 2023 - Oct 2023",
@@ -219,11 +219,11 @@ export const experiences = [
       "Grafana",
       "DataDog"
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFQb9_Lb3bZug/company-logo_200_200/0/1644414857251?e=1693440000&v=beta&t=7WqhIiUCg_0otFDwWn-O_SP-Z4Ftoe4be1WlnjYoESc",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/9a82107d-22ec-4a5f-820b-80cc799b2b6a",
     role: "Student Assistant - IO Security Operation",
     company: "University of Texas at Arlington",
     date: "March 2022 - May 2023",
@@ -233,11 +233,10 @@ export const experiences = [
       "Splunk",
       "ITIL"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/dbd453d2-2370-4555-a060-f0cc7b00acb3",
     role: "Research Assistant",
     company: "HBE Lab, University of Texas, Arlington",
     date: "Aug 2022 - Dec 2023",
@@ -251,11 +250,10 @@ export const experiences = [
       "Pandas",
       "Statistics"
     ],
-    doc: "https://hubilab.uta.edu/",
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/3aa625f9-8870-4cc4-8e26-8566442f3f3d",
     role: "Site Reliability Engineer",
     company: "Volkswagen Group Technology Solutions",
     date: "Aug 2018 - Jan 2022",
@@ -286,14 +284,14 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQE4UC9Z_k3c7A/company-logo_200_200/0/1579422507409?e=1692230400&v=beta&t=HJssPsrwwkAJAsvFiVIYPdM8GzUuuSK5YlATKgLx3Bc",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/9a82107d-22ec-4a5f-820b-80cc799b2b6a",
     school: "University of Texas at Arlington",
     date: "Jan 2022 - Dec 2023",
     degree: "Master in Science - Computer Science",
   },
   {
     id: 1,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
+    img: "https://github.com/thakur-rishabh/test/assets/73167868/09a1bfe4-d74d-43e1-88fe-cc242081d3fd",
     school: "Savitribai Phule Pune University (Pune University)",
     date: "Aug 2014 - July 2018",
     degree: "Bachelor of Engineering - Computer Engineering",
